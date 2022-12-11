@@ -1,0 +1,27 @@
+{
+
+"Token": "OTQzMjI0NTg2MjEwNzcwOTk0.GfIm66.grOMwLRQrtxn-e50jEVjOicCD-3nIWIzBECbuw",
+"mongoURL": "mongodb+srv://coinlistat:chavocoin@cluster0.tzyoq.mongodb.net/oçlar",
+"prefix": ".",
+"setFooter": "orospuçocuğuvdiscord",
+"Owners": ["838931132581281813","719596854379282563"],
+"guildID": "974306777464193065",
+"GuildName": "Winner",
+"welcomeID": "1005632192136892476",
+"registerperms": ["984183596380196935"],
+"yenihesap": "984183653997375488",
+"Unregisteroles": "984183676898263150",
+"Kurallar": "984183725304729622",
+"voiceConfirmedChannelID": ["984183712239485029","984183714059808838","984183715158687784"],
+"welcomeNickName": "İsim",
+"booster": "",
+"yeşiltik": "",
+"kırmızıtik": "",
+"erkek": "",
+"kadın": "",
+"isimbaşıtag": ["♧"],
+"familyroles": "984183659730993183",
+"taglıalım": true
+
+
+}
