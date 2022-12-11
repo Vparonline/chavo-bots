@@ -20,7 +20,7 @@ module.exports = {
         let sesteolmayan = message.guild.members.cache.filter(s => s.roles.cache.has("984183605465083984")).filter(s => !s.voice.channel).map(s => s).join('\n')
 
         message.channel.send({content: `\`\`\`yaml
-        ♧ Phêdra Ses Aktifliğini Arttırmak İçin Müsaitseniz Ses Odalarına Değilseniz Alone Odalarına Geçebilirsiniz.\`\`\` ${sesteolmayan}`})
+        ${message.guild.name} Ses Aktifliğini Arttırmak İçin Müsaitseniz Ses Odalarına Değilseniz Alone Odalarına Geçebilirsiniz.\`\`\` ${sesteolmayan}`})
         
 
     
