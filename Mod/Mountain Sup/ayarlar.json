@@ -1,0 +1,52 @@
+﻿{
+ "prefix": ".",
+ "token": "MTAzMTE1MDk4OTg3ODc1OTU0NA.GJPJaF.91Jf-muFJd4PNBBjeGmeZV0O8XTxs9EykWOQjQ",
+ "mongo": "mongodb+srv://ChavoValenceo:77Valenceo77@cluster0.tzyoq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+ "sahip": "719596854379282563",
+ "bdurum": "Châvo? ❤️ Mountain",
+ "footer": "Châvo? ❤️ Mountain",
+ "renk": "#010101",
+ "ses": "1030944085235732536",
+
+ "sword": "1030944082245210243",
+ "yban": "1030944082245210243",
+ "ymute": "1030944082245210243",
+ "yjail": "1030944082245210243",
+ "ykayıt": "1030944082245210243",
+ 
+ "mute": "1030944082232627210",
+ "jail": "1030944082215833620",
+ "family": "1030944082102587437",
+ "kayıtsız": "1030944082102587432",
+ "booster": "1031275466474147911",
+ "erkek": "1030944082102587435",
+ "kız": "1030944082102587436",
+
+ "botrol": "1031206816195026986",
+ "süpheli": "1030944082215833618",
+ "streammer": "1030944081901273147",
+ "müzisyen": "1030944082060660770",
+ "sponsor": "1030944082136158331",
+ "vip": "1030944082123571238",
+
+ "isimlog": "1031199180359741521",
+ "kayıtsızlog": "1031199196977577984",
+ "erkeklog": "1031199126513262622",
+ "kızlog": "1031199168548577310",
+ "sohbet": "1030944091464286360",
+
+ "vmutelog": "1031207397508776046",
+ "mutelog": "1031207424104857751",
+ "jaillog": "1031207450851946567",
+ "banlog": "1031207410825707600",
+
+ "sembol": "|",
+ "utag": "•",
+ "tag": "➹",
+
+ "Word":{
+ "Nick": ["amk", "ananı sikiyim", "yarak", "oruspu", "orsp", "orspu", "puşt","sokuk","sikik","ibne","amcık","ibnee","1bn3","1bne","ibn3","orospuçoçu","oruspuçocu","occ","oçç","annesini sikeyim","sikeyim","s2","sikişek","s2şek","s2ş","sikiş","anneni sikeyim","annesiz", "ananıskm", "piç", "amk", "amsk", "sikim", "sikiyim", "orospu çocuğu", "piç kurusu", "orospu", "sik", "yarrak", "amuk", "amcık", "amık", "yarram","sg","sgg","siktr","sktr","sigit", "sikimi ye", "mk", "mq", "aq", "awk","awq", "amq","yarrrak","gavat","pezeveng","pezevenk","0ç","0c","oçocuğu","s2k","skik","p1c","p1ç","s0kuk","s1k1ş","s1k1s","s1kis","sik1s","s1kiş","sik1ş","göt","allahını","ülviyetini","amına","sex","s3x","$ex","!bne","!bn","s!k!ş","s!k","s!k!k","s!kik","o.ç","o.c","o.c.","o.ç.","o ç","@ç","p!ç","p*ç","p*şt","o*ç","o*c","bitches","b1tches","b1tçh","bitch","b1tch","sh1t"],
+ "Ailevi": ["o*ç","o*c", "oç", "ananısikiyim", "oc", "orospuçoçu","oruspuçocu","occ","oçç","annesinisikeyim","annenisikeyim","annesiz", "ananıskm","orospuçocuğu","0ç","0c","oçocuğu","o.ç","o.c","o.c.","o.ç.","o ç","@ç","ülviyetini"],
+ "Swear": ["amk", "yarak", "oruspu", "orsp", "orspu", "puşt","sokuk","sikik","ibne","amcık","ibnee","1bn3","1bne","ibn3","sikeyim","sikişek","s2şek","s2ş","sikiş", "piç", "amk", "amsk", "sikim", "sikiyim",  "piç kurusu", "orospu", "sik", "yarrak", "amuk", "amcık", "amık", "yarram","sg","sgg","siktr","sktr","sigit", "sikimi ye", "mk", "mq", "aq", "awk","awq", "amq","yarrrak","gavat","pezeveng","pezevenk","s2k","skik","p1c","p1ç","s0kuk","s1k1ş","s1k1s","s1kis","sik1s","s1kiş","sik1ş","göt","amına","sex","s3x","$ex","!bne","!bn","s!k!ş","s!k","s!k!k","s!kik","p!ç","p*ç","p*şt","bitches","b1tches","b1tçh","bitch","b1tch","sh1t"],
+ "Reklam": [".xyz", ".tk", ".pw", ".io", ".me", ".gg", ".gl", ".org", ".com.tr", ".biz", ".rf.gd", ".az", ".party", "discord.gg", "dc.gg"]}
+}
