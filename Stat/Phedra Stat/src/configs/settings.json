@@ -1,0 +1,6 @@
+{
+  "token": "MTAyNzE1MTg3OTcyMzA0NDkwNA.GKWxiG.bSXw_VUTVhPTBqJMCZPWo-g_MJgaSxwSZnYjS8",
+  "prefix": ["."],
+  "mongoUrl": "mongodb+srv://coinlistat:chavocoin@cluster0.tzyoq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": ["719596854379282563"]
+}
